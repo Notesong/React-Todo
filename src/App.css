@@ -19,7 +19,7 @@ h1 {
     border: 1px black;
 }
 
-.btn-add, .btn-clear {
+.btn {
     background-color: rgb(35, 165, 182); /* Green */
     border: none;
     color: white;
@@ -61,4 +61,3 @@ input[type=text] {
     text-decoration: line-through;
     background-color: rgb(66, 66, 66);
 }
-
